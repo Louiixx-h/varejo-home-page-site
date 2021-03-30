@@ -1,0 +1,89 @@
+.header {
+  display: flex;
+  flex-direction: column;
+}
+
+.App-header {
+  width: 100%;
+  background-color: #fff;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.App-logo {
+  margin-left: 15px;
+}
+
+.search-header {
+  width: 450px;
+  padding: 12px;
+  border: 0;
+  border-radius: 5px;
+  outline: none;
+  font-size: 15px;
+  background-color: rgb(243, 243, 243);
+}
+
+.compras-header {
+  margin-right: 15px;
+}
+
+.App-navigation {
+  height: 60px;
+  background-color: #fff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.nav-buttons {
+  width: 75%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.nav-buttons a {
+  text-decoration: none;
+  display: flex;
+  flex: 1;
+  justify-content: center;
+} 
+
+.nav-buttons p {
+  color: #000;
+}
+
+.nav-buttons a:hover {
+  background-color: rgb(240, 240, 240);
+}
+
+main {
+  background-color: #fff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+article {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.texto-section {
+  width: 75%;
+  margin-top: 20px;
+  padding: 20px;
+  background-color: rgb(245, 245, 245);
+}
+
+.slider {
+  width: 100%;
+  justify-content: center;
+  background-color: #ff5757;
+}
