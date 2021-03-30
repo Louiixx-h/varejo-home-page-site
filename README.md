@@ -1,5 +1,5 @@
 # Atacado Ecommerce
-Projetinho simples de site de página única.
+Projeto simples de site de página única para vendas de produtos de atacado.
 Para subir a aplicação use o comando `npm start`, logo abrirá uma janela em seu navegador padrão.
 <br>
 ## Descrição do projeto
