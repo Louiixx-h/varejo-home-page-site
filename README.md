@@ -1,6 +1,6 @@
 # Atacado Ecommerce
 Projetinho simples de site de página única.
-Para testar a aplicação use o comando `npm start`, logo abrirá uma janela em seu navegador padrão.
+Para subir a aplicação use o comando `npm start`, logo abrirá uma janela em seu navegador padrão.
 <br>
 ## Descrição do projeto
 O projeto foi todo feito em ReacJs, para criar o conteúdo do site foi usado o JSX e a estilização com CSS. Para criar o carousel foi usada uma biblioteca do Reactjs.
