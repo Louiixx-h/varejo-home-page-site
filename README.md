@@ -9,9 +9,9 @@ O projeto foi todo feito em ReacJs, para criar o conteúdo do site foi usado o J
 infinite-react-carousel
 
 ### Instalação
-npm install infinite-react-carousel --save
+`npm install infinite-react-carousel --save`
   ou
-yarn add infinite-react-carousel
+`yarn add infinite-react-carousel`
 
 ## Redes sociais
 Linkedin: https://www.linkedin.com/in/henrique-moreira-3060961b4/
