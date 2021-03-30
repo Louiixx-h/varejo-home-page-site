@@ -15,4 +15,5 @@ yarn add infinite-react-carousel
 
 ## Redes sociais
 Linkedin: https://www.linkedin.com/in/henrique-moreira-3060961b4/
+<br>
 Instagram: https://www.instagram.com/louis.henrik/?hl=pt-br
