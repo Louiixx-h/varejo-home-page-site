@@ -1,4 +1,5 @@
 import './App.css';
+import './AppGrid.css';
 
 import Slider from 'infinite-react-carousel';
 
@@ -80,6 +81,34 @@ function App() {
           </Slider>
         </article>
       </main>
+      <article>
+        <div class="container">
+        <div class="item">
+            <h2>Ferramentas</h2>
+            <img src="https://s2.glbimg.com/56vdja0cxdCoUPWP7eehjSZgTmg=/0x0:1400x788/924x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2019/t/f/ZBcMRsSkOA0FB8TfRrfw/saiba-quais-sao-as-ferramentas-que-nao-podem-faltar-na-sua-casa.png"
+                width="350"/>
+            <button>CONFIRA</button>
+          </div>
+          <div class="item">
+            <h2>Cozinha</h2>
+            <img src="https://assets.tramontina.com.br/upload/blog_post/1603829784_capa_facas.png"
+                width="350"/>
+            <button>CONFIRA</button>
+          </div>
+          <div class="item">
+            <h2>Calçados</h2>
+            <img src="https://bottero.net/blog/wp-content/uploads/2020/12/Tamanco_DestacadaBlog-1280x720.png"
+                width="350"/>
+            <button>CONFIRA</button>
+          </div>
+          <div class="item">
+            <h2>Produtos domésticos</h2>
+            <img src="http://kids.pplware.sapo.pt/wp-content/uploads/2018/02/quimicos_1.jpg"
+                width="350"/>
+            <button>CONFIRA</button>
+          </div>
+        </div>
+      </article>
     </div>
   );
 }

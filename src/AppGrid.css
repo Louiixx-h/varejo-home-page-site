@@ -1,0 +1,47 @@
+.container {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
+    gap: 10px;
+
+    margin-top: 30px;
+}
+
+.item {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+
+    padding: 0 10px;
+    border: rgb(220, 220, 220) 2px solid;
+    border-radius: 10px;
+    background: rgb(240, 240, 240);
+}
+
+.item h2 {
+    color: #474747;
+}
+
+.item img {
+    border-radius: 8px;
+    border: rgb(220, 220, 220) 2px solid;
+}
+
+.item button {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 8px 80px;
+    outline: none;
+    border: 0;
+    border-radius: 5px;
+
+    color: #fff;
+    font-weight: 700;
+    background: coral;
+}
+
+.item button:hover {
+    background: #ee4e30;
+    cursor: pointer;
+}

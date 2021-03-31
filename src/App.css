@@ -1,3 +1,6 @@
+/* HEADER
+============================*/
+
 header {
   margin-bottom: 10px;
   padding-top: 8px;
@@ -35,6 +38,9 @@ header {
   margin-right: 15px;
 }
 
+/* NAVIGATION
+============================*/
+
 .App-navigation {
   height: 60px;
   background-color: #fff;
@@ -65,6 +71,9 @@ header {
   background-color: rgb(240, 240, 240);
 }
 
+/* SLIDER
+============================*/
+
 main {
   background-color: #fff;
   display: flex;
@@ -91,4 +100,24 @@ article {
   width: 100%;
   justify-content: center;
   background-color: #ff5757;
+}
+
+/* APP
+============================*/
+.App {
+  margin-bottom: 50px;
+}
+
+/* SCROLL BAR
+============================*/
+
+::-webkit-scrollbar-track {
+  background-color: #757575;
+}
+::-webkit-scrollbar {
+  width: 6px;
+  background: #F4F4F4;
+}
+::-webkit-scrollbar-thumb {
+  background: #949494;
 }

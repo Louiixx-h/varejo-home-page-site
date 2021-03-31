@@ -1,9 +1,12 @@
 # Varejo Home Page
 Projeto simples de site de página única para vendas de produtos de atacado.
+
+<img src="github/images/homepage.png"/>
+
 Para subir a aplicação use o comando `npm start`, logo abrirá uma janela em seu navegador padrão.
 <br>
 ## Descrição do projeto
-O projeto foi todo feito em ReacJs, para criar o conteúdo do site foi usado o JSX e a estilização com CSS. Para criar o carousel foi usada uma biblioteca do Reactjs.
+O projeto foi todo feito em ReacJs, para criar o conteúdo do site foi usado o JSX e a estilização com CSS. Foi trabalhado também algun conteúdos importantes para estilização em CSS como Grid Layout e Flexbox. Para criar o carousel foi usada uma biblioteca do Reactjs.
 <br>
 ## Bibliotecas Usadas
 infinite-react-carousel
