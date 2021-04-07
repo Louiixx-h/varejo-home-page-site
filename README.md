@@ -18,6 +18,14 @@ infinite-react-carousel
 <br>
 <br>
 ## Redes sociais
-Linkedin: https://www.linkedin.com/in/henrique-moreira-3060961b4/
 <br>
-Instagram: https://www.instagram.com/louis.henrik/?hl=pt-br
+<p>📧 Email: louix.sm@gmail.com</p>
+<br>
+<p>📱 Instagram:</p>
+<a href="https://www.instagram.com/louis.henrik" target="blank">
+https://www.instagram.com/louis.henrik/
+</a>
+<p>💼 Linkedin:</p>
+<a href="https://www.linkedin.com/in/luis-henrique-3060961b4/" target="blank">
+https://www.linkedin.com/in/luis-henrique-3060961b4/
+</a>
