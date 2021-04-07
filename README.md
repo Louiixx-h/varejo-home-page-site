@@ -18,6 +18,6 @@ infinite-react-carousel
 <br>
 <br>
 ## Redes sociais
-📧 Email: louix.sm@gmail.com
-📱 Instagram:<a href="https://www.instagram.com/louis.henrik" target="blank">https://www.instagram.com/louis.henrik/</a>
-💼 Linkedin:<a href="https://www.linkedin.com/in/luis-henrique-3060961b4/" target="blank">https://www.linkedin.com/in/luis-henrique-3060961b4/</a>
+<p>📧 Email: louix.sm@gmail.com</p>
+<p>📱 Instagram:<a href="https://www.instagram.com/louis.henrik" target="blank">https://www.instagram.com/louis.henrik/</a></p>
+<p>💼 Linkedin:<a href="https://www.linkedin.com/in/luis-henrique-3060961b4/" target="blank">https://www.linkedin.com/in/luis-henrique-3060961b4/</a></p>
